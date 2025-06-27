@@ -14,3 +14,13 @@ try:
     print(mydict["name"])
 except:
     print("error")
+
+
+
+for value in mydict.values():
+    print(value)
+
+for key,value in mydict.items():
+    print(f"{key} , {value}")
+
+
