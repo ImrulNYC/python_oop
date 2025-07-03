@@ -22,3 +22,5 @@ say_hello()
 
 
 say_hello()
+
+#timer, debug, check=arg fill, register, cache, add info 
